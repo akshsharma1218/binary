@@ -1,0 +1,72 @@
+body {
+    background-color: #1E1C29 !important;
+}
+
+.strbtn {
+    margin-top: 200px;
+    background-color: #ffc75f !important;
+    color: #000000;
+}
+
+.endgame {
+    background-color: #ffc75f !important;
+    color: #000000;
+
+}
+
+.nav {
+    background-color: rgb(23, 22, 31) !important;
+}
+
+.logoLetter {
+    display: inline-block;
+    margin: -.1em;
+    color: rgb(202, 202, 202);
+}
+
+#gameLogo div:nth-child(even) {
+    color: #ffc75f;
+}
+
+
+#gameLogo {
+    font-size: 2em;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    box-sizing: border-box;
+    background-color: transparent !important;
+}
+
+#levelNumber {
+    font-size: 3rem;
+    display: block;
+    color: antiquewhite;
+}
+
+#scoreNumber {
+    display: block;
+    font-size: 1.5rem;
+    width: 4em;
+    color: antiquewhite;
+}
+
+#levelNumberCont {
+    text-align: center;
+    color: antiquewhite;
+}
+
+#scoreNumberCont {
+    text-align: center;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    color: antiquewhite;
+}
+
+    #scoreNumberCont {
+        text-align: center;
+        padding-top: 0em  !important;
+        padding-bottom: 2em;
+        color: antiquewhite;
+        font-size: 1.7rem;
+    }
+
